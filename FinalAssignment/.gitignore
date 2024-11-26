@@ -4,3 +4,10 @@ obj/
 
 # Ignore VS Code settings
 .vscode/
+
+# Ignore user-specific files
+*.user
+*.suo
+
+# Logs
+*.log
